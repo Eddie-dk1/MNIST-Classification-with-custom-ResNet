@@ -99,6 +99,6 @@ pip install numpy matplotlib tensorflow
 
 ## Notes
 # tg: @armaturablya
+student RUDN University
 This project was created for learning purposes.
 It shows how to build and train a deep learning model from scratch using TensorFlow, including manual dataset loading, data augmentation, and advanced optimization techniques.
-RUDN University
